@@ -1,0 +1,1408 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+                              obj/imx6/red_test.o (osal_usleep)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                              obj/imx6/red_test.o (ec_config)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+                              obj/imx6/red_test.o (ec_configdc)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                              obj/imx6/red_test.o (ec_slave)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+                              obj/imx6/red_test.o (ec_ALstatuscode2string)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+                              /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o) (ecx_readIDNmap)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                              /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o) (ecx_setupdatagram)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                              /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o) (ecx_readPDOmap)
+/home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                              /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o (__libc_csu_init)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                              /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o) (secMAC)
+/home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+                              /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o) (oshw_htons)
+/home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+                              /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o) (__aeabi_idiv)
+/home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+                              obj/imx6/red_test.o (__aeabi_ldivmod)
+/home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+                              /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+                              /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+IOmap               0x1000            obj/imx6/red_test.o
+ecx_port            0xcadc            /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ecx_redport         0x6570            /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+gl_delta            0x8               obj/imx6/red_test.o
+os                  0x4               obj/imx6/red_test.o
+t1                  0x8               obj/imx6/red_test.o
+inOP                0x1               obj/imx6/red_test.o
+ec_DCtime           0x8               /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+thread1             0x4               obj/imx6/red_test.o
+expectedWKC         0x4               obj/imx6/red_test.o
+estring             0x7f              /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+needlf              0x1               obj/imx6/red_test.o
+ec_slavecount       0x4               /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ob2                 0x2               obj/imx6/red_test.o
+ob                  0x1               obj/imx6/red_test.o
+t2                  0x8               obj/imx6/red_test.o
+tv                  0x8               obj/imx6/red_test.o
+thread2             0x4               obj/imx6/red_test.o
+wkc                 0x4               obj/imx6/red_test.o
+schedp              0x4               obj/imx6/red_test.o
+DCdiff              0x4               obj/imx6/red_test.o
+toff                0x8               obj/imx6/red_test.o
+ec_group            0x250             /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ec_slave            0xf3c0            /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+deltat              0x4               obj/imx6/red_test.o
+
+Discarded input sections
+
+ .rodata.cst4   0x00000000        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .ARM.extab     0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .data          0x00000000        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .data          0x00000000        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ .text          0x00000000        0x0 obj/imx6/red_test.o
+ .data          0x00000000        0x0 obj/imx6/red_test.o
+ .note.GNU-stack
+                0x00000000        0x0 obj/imx6/red_test.o
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text.ecx_dcsync0
+                0x00000000      0x1b8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text.ecx_dcsync01
+                0x00000000      0x1e0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text.ec_dcsync0
+                0x00000000       0x36 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text.ec_dcsync01
+                0x00000000       0x3a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_find_adapters
+                0x00000000       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_free_adapters
+                0x00000000       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_poperror
+                0x00000000       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_iserror
+                0x00000000       0x24 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_init
+                0x00000000       0x20 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_esidump
+                0x00000000       0xd8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_writeeeprom
+                0x00000000       0x64 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_eeprom_waitnotbusyAP
+                0x00000000       0x94 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_readeepromAP
+                0x00000000      0x198 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_writeeepromAP
+                0x00000000      0x154 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_writeeepromFP
+                0x00000000      0x154 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_send_processdata
+                0x00000000       0x18 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_receive_processdata
+                0x00000000       0x1c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_pusherror
+                0x00000000       0x1c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_poperror
+                0x00000000       0x1e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_iserror
+                0x00000000       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_packeterror
+                0x00000000       0x4a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_mbxerror
+                0x00000000       0x30 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_mbxemergencyerror
+                0x00000000       0x56 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_init  0x00000000       0x1e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_siigetbyte
+                0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_siifind
+                0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_siistring
+                0x00000000       0x30 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_siiFMMU
+                0x00000000       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_siiSM
+                0x00000000       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_siiSMnext
+                0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_siiPDO
+                0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_mbxempty
+                0x00000000       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_mbxsend
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_mbxreceive
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_esidump
+                0x00000000       0x28 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_readeeprom
+                0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_writeeeprom
+                0x00000000       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_eeprom2master
+                0x00000000       0x26 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_eeprom2pdi
+                0x00000000       0x26 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_eeprom_waitnotbusyAP
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_readeepromAP
+                0x00000000       0x34 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_writeeepromAP
+                0x00000000       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_eeprom_waitnotbusyFP
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_readeepromFP
+                0x00000000       0x34 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_writeeepromFP
+                0x00000000       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_readeeprom1
+                0x00000000       0x30 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ec_readeeprom2
+                0x00000000       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .text.ec_sdoerror2string
+                0x00000000       0x64 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .text.ec_soeerror2string
+                0x00000000       0x6c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .text.ec_mbxerror2string
+                0x00000000       0x6c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .text.ecx_elist2string
+                0x00000000      0x208 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .text.ec_elist2string
+                0x00000000       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ COMMON         0x00000000       0x7f /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .text.ecx_SoEwrite
+                0x00000000      0x358 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .text.ec_SoEread
+                0x00000000       0x58 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .text.ec_SoEwrite
+                0x00000000       0x58 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .text.ec_readIDNmap
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ecx_ARMW
+                0x00000000       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ecx_FRMW
+                0x00000000       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ecx_LRW  0x00000000       0xbe /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ecx_LRD  0x00000000       0xbe /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ecx_LWR  0x00000000       0x82 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ecx_LRWDC
+                0x00000000      0x15c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_setupdatagram
+                0x00000000       0x56 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_adddatagram
+                0x00000000       0x5c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_BWR   0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_BRD   0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_APRD  0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_ARMW  0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_FRMW  0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_APRDw
+                0x00000000       0x3c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_FPRD  0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_FPRDw
+                0x00000000       0x3c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_APWR  0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_APWRw
+                0x00000000       0x3a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_FPWR  0x00000000       0x44 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_FPWRw
+                0x00000000       0x3a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_LRW   0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_LRD   0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_LWR   0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text.ec_LRWDC
+                0x00000000       0x42 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_SDOinfoerror
+                0x00000000       0x58 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_SDOwrite
+                0x00000000      0x6e0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_RxPDO
+                0x00000000      0x152 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_TxPDO
+                0x00000000      0x1fc /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_readODlist
+                0x00000000      0x34a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_readODdescription
+                0x00000000      0x30e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_readOEsingle
+                0x00000000      0x30a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ecx_readOE
+                0x00000000       0x70 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_SDOerror
+                0x00000000       0x3e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_SDOread
+                0x00000000       0x58 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_SDOwrite
+                0x00000000       0x58 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_RxPDO
+                0x00000000       0x38 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_TxPDO
+                0x00000000       0x3c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readPDOassign
+                0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readPDOassignCA
+                0x00000000       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readPDOmap
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readPDOmapCA
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readODlist
+                0x00000000       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readODdescription
+                0x00000000       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readOEsingle
+                0x00000000       0x38 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .text.ec_readOE
+                0x00000000       0x2c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_setupnic
+                0x00000000       0x22 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_closenic
+                0x00000000       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_getindex
+                0x00000000       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_setbufstat
+                0x00000000       0x20 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_outframe
+                0x00000000       0x22 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_outframe_red
+                0x00000000       0x1e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_inframe
+                0x00000000       0x22 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_waitinframe
+                0x00000000       0x22 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ec_srconfirm
+                0x00000000       0x22 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .data          0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .text.oshw_ntohs
+                0x00000000       0x26 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .text.oshw_find_adapters
+                0x00000000       0xe2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .text.oshw_free_adapters
+                0x00000000       0x3c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .text          0x00000000      0x2b0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .debug_line    0x00000000      0x110 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .debug_info    0x00000000      0x1b6 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x00000000       0x14 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x00000000       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x21 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+ .text          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+ .data          0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+ .bss           0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libpthread.so
+START GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/lib/libpthread.so.0
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libpthread_nonshared.a
+END GROUP
+LOAD obj/imx6/red_test.o
+START GROUP
+LOAD /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a
+LOAD /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a
+LOAD /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc.so
+START GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/lib/libc.so.6
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/lib/ld-linux-armhf.so.3
+END GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libm.so
+END GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/../../../../arm-linux-gnueabihf/lib/libgcc_s.so
+START GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/../../../../arm-linux-gnueabihf/lib/libgcc_s.so.1
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a
+END GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libpthread.so
+START GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/lib/libpthread.so.0
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libpthread_nonshared.a
+END GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc.so
+START GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/lib/libc.so.6
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/lib/ld-linux-armhf.so.3
+END GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/../../../../arm-linux-gnueabihf/lib/libgcc_s.so
+START GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/../../../../arm-linux-gnueabihf/lib/libgcc_s.so.1
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a
+END GROUP
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+LOAD /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+                [!provide]                PROVIDE (__executable_start, 0x10000)
+                0x00010134                . = (0x10000 + SIZEOF_HEADERS)
+
+.interp         0x00010134       0x19
+ *(.interp)
+ .interp        0x00010134       0x19 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.note.ABI-tag   0x00010150       0x20
+ .note.ABI-tag  0x00010150       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.note.gnu.build-id
+                0x00010170       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00010170       0x24 linker stubs
+
+.hash           0x00010194       0xdc
+ *(.hash)
+ .hash          0x00010194       0xdc /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00010270      0x240
+ *(.dynsym)
+ .dynsym        0x00010270      0x240 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.dynstr         0x000104b0      0x1b8
+ *(.dynstr)
+ .dynstr        0x000104b0      0x1b8 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.gnu.version    0x00010668       0x48
+ *(.gnu.version)
+ .gnu.version   0x00010668       0x48 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.gnu.version_d  0x000106b0        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x000106b0        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.gnu.version_r  0x000106b0       0x50
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x000106b0       0x50 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.rel.dyn        0x00010700       0x10
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00010700        0x8 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00010708        0x8 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                [!provide]                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+ .rel.iplt      0x00010710        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                [!provide]                PROVIDE (__rel_iplt_end, .)
+
+.rela.dyn       0x00010710        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                [!provide]                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                [!provide]                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x00010710       0xf8
+ *(.rel.plt)
+ .rel.plt       0x00010710       0xf8 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00010808        0xc
+ *(SORT(.init))
+ .init          0x00010808        0x8 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+                0x00010808                _init
+ .init          0x00010810        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+.plt            0x00010814      0x188
+ *(.plt)
+ .plt           0x00010814      0x188 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                0x00010828                pthread_mutex_unlock@@GLIBC_2.4
+                0x00010834                raise@@GLIBC_2.4
+                0x00010840                setsockopt@@GLIBC_2.4
+                0x0001084c                printf@@GLIBC_2.4
+                0x00010858                fflush@@GLIBC_2.4
+                0x00010864                pthread_mutex_lock@@GLIBC_2.4
+                0x00010870                nanosleep@@GLIBC_2.4
+                0x0001087c                clock_gettime@@GLIBC_2.17
+                0x00010888                memcpy@@GLIBC_2.4
+                0x00010894                pthread_mutex_init@@GLIBC_2.4
+                0x000108a0                htons@@GLIBC_2.4
+                0x000108ac                ioctl@@GLIBC_2.4
+                0x000108b8                strcpy@@GLIBC_2.4
+                0x000108c4                pthread_create@@GLIBC_2.4
+                0x000108d0                puts@@GLIBC_2.4
+                0x000108dc                __libc_start_main@@GLIBC_2.4
+                0x000108f4                bind@@GLIBC_2.4
+                0x00010900                memset@@GLIBC_2.4
+                0x0001090c                putchar@@GLIBC_2.4
+                0x00010918                ntohs@@GLIBC_2.4
+                0x00010924                sprintf@@GLIBC_2.4
+                0x00010930                atoi@@GLIBC_2.4
+                0x0001093c                pthread_setschedparam@@GLIBC_2.4
+                0x00010948                socket@@GLIBC_2.4
+                0x00010954                clock_nanosleep@@GLIBC_2.17
+                0x00010960                abort@@GLIBC_2.4
+                0x0001096c                recv@@GLIBC_2.4
+                0x00010978                close@@GLIBC_2.4
+                0x00010984                send@@GLIBC_2.4
+                0x00010990                sched_setscheduler@@GLIBC_2.4
+
+.iplt           0x0001099c        0x0
+ *(.iplt)
+ .iplt          0x0001099c        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+
+.text           0x000109a0     0x9c74
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000109a0       0x30 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                0x000109a0                _start
+ .text          0x000109d0       0x24 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .text          0x000109f4       0x8c /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ .text.redtest  0x00010a80      0x52e obj/imx6/red_test.o
+                0x00010a80                redtest
+ *fill*         0x00010fae        0x2 
+ .text.add_timespec
+                0x00010fb0       0xe8 obj/imx6/red_test.o
+                0x00010fb0                add_timespec
+ .text.ec_sync  0x00011098      0x11c obj/imx6/red_test.o
+                0x00011098                ec_sync
+ .text.ecatthread
+                0x000111b4      0x150 obj/imx6/red_test.o
+                0x000111b4                ecatthread
+ .text.ecatcheck
+                0x00011304      0x368 obj/imx6/red_test.o
+                0x00011304                ecatcheck
+ .text.main     0x0001166c      0x114 obj/imx6/red_test.o
+                0x0001166c                main
+ .text.osal_usleep
+                0x00011780       0x52 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+                0x00011780                osal_usleep
+ .text.osal_gettimeofday
+                0x000117d2       0x3a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+                0x000117d2                osal_gettimeofday
+ .text.osal_current_time
+                0x0001180c       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+                0x0001180c                osal_current_time
+ .text.osal_timer_start
+                0x0001183a       0x8c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+                0x0001183a                osal_timer_start
+ .text.osal_timer_is_expired
+                0x000118c6       0x58 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+                0x000118c6                osal_timer_is_expired
+ .text.ec_findconfig
+                0x0001191e       0x8e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x0001191e                ec_findconfig
+ .text.ecx_config_init
+                0x000119ac     0x15c4 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x000119ac                ecx_config_init
+ .text.ecx_config_map_group
+                0x00012f70     0x192e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00012f70                ecx_config_map_group
+ .text.ecx_recover_slave
+                0x0001489e      0x1fa /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x0001489e                ecx_recover_slave
+ .text.ecx_reconfig_slave
+                0x00014a98      0x1f2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00014a98                ecx_reconfig_slave
+ .text.ec_config_init
+                0x00014c8a       0x26 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00014c8a                ec_config_init
+ .text.ec_config_map_group
+                0x00014cb0       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00014cb0                ec_config_map_group
+ .text.ec_config_map
+                0x00014cda       0x18 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00014cda                ec_config_map
+ .text.ec_config
+                0x00014cf2       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00014cf2                ec_config
+ .text.ec_recover_slave
+                0x00014d20       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00014d20                ec_recover_slave
+ .text.ec_reconfig_slave
+                0x00014d4a       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x00014d4a                ec_reconfig_slave
+ .text.ecx_porttime
+                0x00014d74       0xa4 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text.ecx_prevport
+                0x00014e18      0x15c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text.ecx_parentport
+                0x00014f74       0xcc /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .text.ecx_configdc
+                0x00015040      0x862 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+                0x00015040                ecx_configdc
+ .text.ec_configdc
+                0x000158a2       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+                0x000158a2                ec_configdc
+ .text.ecx_pusherror
+                0x000158b6       0xc0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x000158b6                ecx_pusherror
+ .text.ecx_packeterror
+                0x00015976       0x70 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00015976                ecx_packeterror
+ .text.ecx_mbxerror
+                0x000159e6       0x58 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_mbxemergencyerror
+                0x00015a3e       0x86 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_init_redundant
+                0x00015ac4       0x9e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00015ac4                ecx_init_redundant
+ .text.ecx_close
+                0x00015b62       0x18 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00015b62                ecx_close
+ .text.ecx_siigetbyte
+                0x00015b7a      0x1bc /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00015b7a                ecx_siigetbyte
+ .text.ecx_siifind
+                0x00015d36      0x17c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00015d36                ecx_siifind
+ .text.ecx_siistring
+                0x00015eb2      0x162 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00015eb2                ecx_siistring
+ .text.ecx_siiFMMU
+                0x00016014      0x160 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016014                ecx_siiFMMU
+ .text.ecx_siiSM
+                0x00016174      0x1cc /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016174                ecx_siiSM
+ .text.ecx_siiSMnext
+                0x00016340      0x186 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016340                ecx_siiSMnext
+ .text.ecx_siiPDO
+                0x000164c6      0x364 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x000164c6                ecx_siiPDO
+ .text.ecx_readstate
+                0x0001682a       0xf8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x0001682a                ecx_readstate
+ .text.ecx_writestate
+                0x00016922       0x96 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016922                ecx_writestate
+ .text.ecx_statecheck
+                0x000169b8      0x124 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x000169b8                ecx_statecheck
+ .text.ec_nextmbxcnt
+                0x00016adc       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016adc                ec_nextmbxcnt
+ .text.ec_clearmbx
+                0x00016b06       0x1a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016b06                ec_clearmbx
+ .text.ecx_mbxempty
+                0x00016b20       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016b20                ecx_mbxempty
+ .text.ecx_mbxsend
+                0x00016bd2       0xac /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016bd2                ecx_mbxsend
+ .text.ecx_mbxreceive
+                0x00016c7e      0x2ba /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016c7e                ecx_mbxreceive
+ .text.ecx_readeeprom
+                0x00016f38       0x52 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016f38                ecx_readeeprom
+ .text.ecx_eeprom2master
+                0x00016f8a       0xd8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00016f8a                ecx_eeprom2master
+ .text.ecx_eeprom2pdi
+                0x00017062       0x9e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017062                ecx_eeprom2pdi
+ .text.ecx_eeprom_waitnotbusyFP
+                0x00017100       0x94 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017100                ecx_eeprom_waitnotbusyFP
+ .text.ecx_readeepromFP
+                0x00017194      0x198 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017194                ecx_readeepromFP
+ .text.ecx_readeeprom1
+                0x0001732c       0xd0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x0001732c                ecx_readeeprom1
+ .text.ecx_readeeprom2
+                0x000173fc       0x82 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x000173fc                ecx_readeeprom2
+ .text.ecx_pushindex
+                0x0001747e       0x6c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_pullindex
+                0x000174ea       0x36 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .text.ecx_send_processdata_group
+                0x00017520      0x67e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017520                ecx_send_processdata_group
+ .text.ecx_receive_processdata_group
+                0x00017b9e      0x228 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017b9e                ecx_receive_processdata_group
+ .text.ec_init_redundant
+                0x00017dc6       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017dc6                ec_init_redundant
+ .text.ec_close
+                0x00017df0       0x12 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017df0                ec_close
+ .text.ec_readstate
+                0x00017e02       0x14 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017e02                ec_readstate
+ .text.ec_writestate
+                0x00017e16       0x26 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017e16                ec_writestate
+ .text.ec_statecheck
+                0x00017e3c       0x32 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017e3c                ec_statecheck
+ .text.ec_send_processdata_group
+                0x00017e6e       0x26 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017e6e                ec_send_processdata_group
+ .text.ec_receive_processdata_group
+                0x00017e94       0x2a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017e94                ec_receive_processdata_group
+ .text.ec_send_processdata
+                0x00017ebe        0xe /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017ebe                ec_send_processdata
+ .text.ec_receive_processdata
+                0x00017ecc       0x18 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00017ecc                ec_receive_processdata
+ .text.ec_ALstatuscode2string
+                0x00017ee4       0x6c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+                0x00017ee4                ec_ALstatuscode2string
+ .text.ecx_SoEerror
+                0x00017f50       0x6e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+                0x00017f50                ecx_SoEerror
+ .text.ecx_SoEread
+                0x00017fbe      0x35a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+                0x00017fbe                ecx_SoEread
+ .text.ecx_readIDNmap
+                0x00018318      0x1ee /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+                0x00018318                ecx_readIDNmap
+ .text.ecx_setupdatagram
+                0x00018506       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x00018506                ecx_setupdatagram
+ .text.ecx_adddatagram
+                0x000185b8      0x126 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x000185b8                ecx_adddatagram
+ .text.ecx_BWR  0x000186de       0x8e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x000186de                ecx_BWR
+ .text.ecx_BRD  0x0001876c       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x0001876c                ecx_BRD
+ .text.ecx_APRD
+                0x0001881e       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x0001881e                ecx_APRD
+ .text.ecx_APRDw
+                0x000188d0       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x000188d0                ecx_APRDw
+ .text.ecx_FPRD
+                0x00018910       0xb2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x00018910                ecx_FPRD
+ .text.ecx_FPRDw
+                0x000189c2       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x000189c2                ecx_FPRDw
+ .text.ecx_APWR
+                0x00018a02       0x8e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x00018a02                ecx_APWR
+ .text.ecx_APWRw
+                0x00018a90       0x42 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x00018a90                ecx_APWRw
+ .text.ecx_FPWR
+                0x00018ad2       0x8e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x00018ad2                ecx_FPWR
+ .text.ecx_FPWRw
+                0x00018b60       0x42 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                0x00018b60                ecx_FPWRw
+ .text.ecx_SDOerror
+                0x00018ba2       0x6c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                0x00018ba2                ecx_SDOerror
+ .text.ecx_SDOread
+                0x00018c0e      0x5be /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                0x00018c0e                ecx_SDOread
+ .text.ecx_readPDOassign
+                0x000191cc      0x19e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                0x000191cc                ecx_readPDOassign
+ .text.ecx_readPDOassignCA
+                0x0001936a      0x138 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                0x0001936a                ecx_readPDOassignCA
+ .text.ecx_readPDOmap
+                0x000194a2      0x256 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                0x000194a2                ecx_readPDOmap
+ .text.ecx_readPDOmapCA
+                0x000196f8      0x208 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                0x000196f8                ecx_readPDOmapCA
+ .text          0x00019900       0x44 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                0x00019900                __libc_csu_init
+                0x00019940                __libc_csu_fini
+ .text.ecx_setupnic
+                0x00019944      0x2dc /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019944                ecx_setupnic
+ .text.ecx_closenic
+                0x00019c20       0x52 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019c20                ecx_closenic
+ .text.ec_setupheader
+                0x00019c72       0x88 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019c72                ec_setupheader
+ .text.ecx_getindex
+                0x00019cfa       0xb4 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019cfa                ecx_getindex
+ .text.ecx_setbufstat
+                0x00019dae       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019dae                ecx_setbufstat
+ .text.ecx_outframe
+                0x00019dee       0x64 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019dee                ecx_outframe
+ .text.ecx_outframe_red
+                0x00019e52       0xdc /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019e52                ecx_outframe_red
+ .text.ecx_recvpkt
+                0x00019f2e       0x5a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ecx_inframe
+                0x00019f88      0x1be /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x00019f88                ecx_inframe
+ .text.ecx_waitinframe_red
+                0x0001a146      0x224 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .text.ecx_waitinframe
+                0x0001a36a       0x3e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x0001a36a                ecx_waitinframe
+ .text.ecx_srconfirm
+                0x0001a3a8       0x82 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x0001a3a8                ecx_srconfirm
+ .text.oshw_htons
+                0x0001a42a       0x26 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+                0x0001a42a                oshw_htons
+ .text          0x0001a450       0xa0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+                0x0001a450                __aeabi_ldivmod
+ .text          0x0001a4f0        0xc /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+                0x0001a4f0                __aeabi_ldiv0
+                0x0001a4f0                __aeabi_idiv0
+ .text          0x0001a4fc      0x118 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+                0x0001a4fc                __udivmoddi4
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x0001a614        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0001a614        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x0001a614        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x0001a614        0x0 linker stubs
+
+.fini           0x0001a614        0x8
+ *(SORT(.fini))
+ .fini          0x0001a614        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+                0x0001a614                _fini
+ .fini          0x0001a618        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+                [!provide]                PROVIDE (__etext, .)
+                [!provide]                PROVIDE (_etext, .)
+                [!provide]                PROVIDE (etext, .)
+
+.rodata         0x0001a61c     0x55f6
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0001a61c      0x430 obj/imx6/red_test.o
+ .rodata        0x0001aa4c      0x6de /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                0x0001aa4c                ec_configlist
+ *fill*         0x0001b12a        0x2 
+ .rodata        0x0001b12c     0x4ad5 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+                0x0001b12c                ec_sdoerrorlist
+                0x0001c1ac                ec_ALstatuscodelist
+                0x0001dc14                ec_soeerrorlist
+                0x0001f5fc                ec_mbxerrorlist
+ *fill*         0x0001fc01        0x3 
+ .rodata        0x0001fc04        0xe /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                0x0001fc04                priMAC
+                0x0001fc0c                secMAC
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x0001fc14        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0001fc14        0x8 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .ARM.exidx     0x0001fc1c        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+                                  0x8 (size before relaxing)
+                [!provide]                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0001fc1c        0x4
+ *(.eh_frame)
+ .eh_frame      0x0001fc1c        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00020000                . = DATA_SEGMENT_ALIGN (0x10000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00020000        0x0
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00020000        0x4
+                0x00020000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x00020000        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+                0x00020004                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00020004        0x4
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x00020004        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00020008        0x4
+ *(.jcr)
+ .jcr           0x00020008        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ .jcr           0x00020008        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0002000c       0xf8
+ *(.dynamic)
+ .dynamic       0x0002000c       0xf8 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                0x0002000c                _DYNAMIC
+                0x00020104                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x00020104       0x8c
+ *(.got.plt)
+ .got.plt       0x00020104       0x88 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                0x00020104                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0002018c        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ *(.got)
+ .got           0x0002018c        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ *(.igot)
+
+.data           0x00020190       0x50
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00020190       0x50 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00020190                ecx_context
+
+.tm_clone_table
+                0x000201e0        0x0
+ .tm_clone_table
+                0x000201e0        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ .tm_clone_table
+                0x000201e0        0x0 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+
+.data1
+ *(.data1)
+                0x000201e0                _edata = .
+                [!provide]                PROVIDE (edata, .)
+                0x000201e0                . = .
+                0x000201e0                __bss_start = .
+                0x000201e0                __bss_start__ = .
+
+.bss            0x000201e0    0x256ec
+ *(.dynbss)
+ .dynbss        0x000201e0        0x4 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                0x000201e0                stdout@@GLIBC_2.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000201e4        0x1 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ *fill*         0x000201e5        0x3 
+ .bss           0x000201e8       0x60 obj/imx6/red_test.o
+                0x000201e8                dorun
+                0x000201ec                tmax
+                0x000201f0                cond
+                0x00020220                mutex
+                0x00020238                digout
+                0x0002023c                currentgroup
+ .bss           0x00020248     0x1fc0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00020248                EcatError
+ *(COMMON)
+ COMMON         0x00022208     0x1054 obj/imx6/red_test.o
+                0x00022208                IOmap
+                0x00023208                gl_delta
+                0x00023210                os
+                0x00023214                t1
+                0x0002321c                inOP
+                0x00023220                thread1
+                0x00023224                expectedWKC
+                0x00023228                needlf
+                0x0002322a                ob2
+                0x0002322c                ob
+                0x00023230                t2
+                0x00023238                tv
+                0x00023240                thread2
+                0x00023244                wkc
+                0x00023248                schedp
+                0x0002324c                DCdiff
+                0x00023250                toff
+                0x00023258                deltat
+ *fill*         0x0002325c        0x4 
+ COMMON         0x00023260    0x2266c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                0x00023260                ecx_port
+                0x0002fd3c                ecx_redport
+                0x000362b0                ec_DCtime
+                0x000362b8                ec_slavecount
+                0x000362bc                ec_group
+                0x0003650c                ec_slave
+                0x000458cc                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x000458cc                _bss_end__ = .
+                0x000458cc                __bss_end__ = .
+                0x000458cc                . = ALIGN (0x4)
+                0x000458cc                . = SEGMENT_START ("ldata-segment", .)
+                0x000458cc                . = ALIGN (0x4)
+                0x000458cc                __end__ = .
+                0x000458cc                _end = .
+                [!provide]                PROVIDE (end, .)
+                0x000458cc                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2d
+ *(.comment)
+ .comment       0x00000000       0x2d /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                                 0x2e (size before relaxing)
+ .comment       0x0000002d       0x2e /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ .comment       0x0000002d       0x2e obj/imx6/red_test.o
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .comment       0x0000002d       0x2e /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .ARM.attributes
+                0x00000033       0x23 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .ARM.attributes
+                0x00000056       0x33 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtbegin.o
+ .ARM.attributes
+                0x00000089       0x33 obj/imx6/red_test.o
+ .ARM.attributes
+                0x000000bc       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .ARM.attributes
+                0x000000ef       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .ARM.attributes
+                0x00000122       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .ARM.attributes
+                0x00000155       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .ARM.attributes
+                0x00000188       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .ARM.attributes
+                0x000001bb       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .ARM.attributes
+                0x000001ee       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .ARM.attributes
+                0x00000221       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .ARM.attributes
+                0x00000254       0x35 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x00000289       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .ARM.attributes
+                0x000002bc       0x33 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .ARM.attributes
+                0x000002ef       0x21 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000310       0x21 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x00000331       0x33 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000364       0x33 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/crtend.o
+ .ARM.attributes
+                0x00000397       0x23 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x8d8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .debug_aranges
+                0x00000038       0x30 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .debug_aranges
+                0x00000068       0x48 obj/imx6/red_test.o
+ .debug_aranges
+                0x000000b0       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .debug_aranges
+                0x000000f0       0x70 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .debug_aranges
+                0x00000160       0x60 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .debug_aranges
+                0x000001c0      0x2b8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .debug_aranges
+                0x00000478       0x48 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .debug_aranges
+                0x000004c0       0x50 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .debug_aranges
+                0x00000510      0x138 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .debug_aranges
+                0x00000648       0xf0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .debug_aranges
+                0x00000738       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_aranges
+                0x00000758       0xc0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .debug_aranges
+                0x00000818       0x38 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .debug_aranges
+                0x00000850       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x00000870       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_aranges
+                0x00000890       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x000008b0       0x28 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x14457
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x163 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .debug_info    0x00000163       0xd6 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .debug_info    0x00000239     0x1865 obj/imx6/red_test.o
+ .debug_info    0x00001a9e      0x3ab /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .debug_info    0x00001e49     0x1b1a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .debug_info    0x00003963     0x159b /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .debug_info    0x00004efe     0x36c8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .debug_info    0x000085c6     0x1519 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .debug_info    0x00009adf     0x1981 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .debug_info    0x0000b460     0x2581 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .debug_info    0x0000d9e1     0x2596 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .debug_info    0x0000ff77      0x189 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_info    0x00010100     0x1e1b /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .debug_info    0x00011f1b     0x1452 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .debug_info    0x0001336d      0x1b2 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x0001351f      0x1b6 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_info    0x000136d5      0xcac /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_info    0x00014381       0xd6 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+.debug_abbrev   0x00000000     0x2025
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x52 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .debug_abbrev  0x00000052       0x12 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .debug_abbrev  0x00000064      0x2ac obj/imx6/red_test.o
+ .debug_abbrev  0x00000310      0x141 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .debug_abbrev  0x00000451      0x2a0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .debug_abbrev  0x000006f1      0x2c0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .debug_abbrev  0x000009b1      0x3a9 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .debug_abbrev  0x00000d5a      0x266 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .debug_abbrev  0x00000fc0      0x2a6 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .debug_abbrev  0x00001266      0x29e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .debug_abbrev  0x00001504      0x2c3 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .debug_abbrev  0x000017c7      0x118 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_abbrev  0x000018df      0x34e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .debug_abbrev  0x00001c2d      0x248 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .debug_abbrev  0x00001e75       0x14 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x00001e89       0x14 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_abbrev  0x00001e9d      0x176 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x00002013       0x12 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+.debug_line     0x00000000     0x4f66
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x80 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+ .debug_line    0x00000080       0x6c /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .debug_line    0x000000ec      0x58a obj/imx6/red_test.o
+ .debug_line    0x00000676      0x291 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .debug_line    0x00000907      0x88d /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .debug_line    0x00001194      0x42e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .debug_line    0x000015c2      0xdcf /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .debug_line    0x00002391      0x3cd /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .debug_line    0x0000275e      0x4b8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .debug_line    0x00002c16      0x615 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .debug_line    0x0000322b      0x8a6 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .debug_line    0x00003ad1      0x12e /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_line    0x00003bff      0x78e /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .debug_line    0x0000438d      0x474 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .debug_line    0x00004801       0xfe /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x000048ff       0xe5 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x000049e4      0x52e /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_line    0x00004f12       0x54 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+.debug_frame    0x00000000     0x19e0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xcc obj/imx6/red_test.o
+ .debug_frame   0x000000cc       0xa8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .debug_frame   0x00000174      0x14c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .debug_frame   0x000002c0      0x110 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .debug_frame   0x000003d0      0x974 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .debug_frame   0x00000d44       0xac /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .debug_frame   0x00000df0       0xe8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .debug_frame   0x00000ed8      0x410 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .debug_frame   0x000012e8      0x338 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .debug_frame   0x00001620       0x44 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_frame   0x00001664      0x25c /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .debug_frame   0x000018c0       0x80 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .debug_frame   0x00001940       0x44 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00001984       0x28 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_frame   0x000019ac       0x34 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+
+.debug_str      0x00000000     0x3cea
+ *(.debug_str)
+ .debug_str     0x00000000      0x1d6 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crt1.o
+                                0x216 (size before relaxing)
+ .debug_str     0x000001d6      0xd11 obj/imx6/red_test.o
+                                0xf19 (size before relaxing)
+ .debug_str     0x00000ee7      0x112 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+                                0x39c (size before relaxing)
+ .debug_str     0x00000ff9      0x5ee /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+                               0x1231 (size before relaxing)
+ .debug_str     0x000015e7       0xe2 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+                                0xdf6 (size before relaxing)
+ .debug_str     0x000016c9      0x847 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+                               0x1836 (size before relaxing)
+ .debug_str     0x00001f10      0x157 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+                                0xd5d (size before relaxing)
+ .debug_str     0x00002067      0x25a /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+                                0xecd (size before relaxing)
+ .debug_str     0x000022c1      0x1a9 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+                               0x119e (size before relaxing)
+ .debug_str     0x0000246a      0x47b /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+                               0x117c (size before relaxing)
+ .debug_str     0x000028e5      0x186 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                                0x25e (size before relaxing)
+ .debug_str     0x00002a6b      0x4bd /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+                               0x11ab (size before relaxing)
+ .debug_str     0x00002f28       0x93 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+                                0xd12 (size before relaxing)
+ .debug_str     0x00002fbb      0xd2f /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+                               0x106f (size before relaxing)
+
+.debug_loc      0x00000000      0x2d4
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xdd /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .debug_loc     0x000000dd      0x1f7 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/6.2.1/libgcc.a(_udivmoddi4.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x760
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crti.o
+ .debug_ranges  0x00000028       0x38 obj/imx6/red_test.o
+ .debug_ranges  0x00000060       0x30 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libosal.a(osal.o)
+ .debug_ranges  0x00000090       0x60 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatconfig.o)
+ .debug_ranges  0x000000f0       0x50 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatdc.o)
+ .debug_ranges  0x00000140      0x2a8 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatmain.o)
+ .debug_ranges  0x000003e8       0x38 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatprint.o)
+ .debug_ranges  0x00000420       0x40 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatsoe.o)
+ .debug_ranges  0x00000460      0x128 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatbase.o)
+ .debug_ranges  0x00000588       0xe0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/libsoem.a(ethercatcoe.o)
+ .debug_ranges  0x00000668       0xb0 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(nicdrv.o)
+ .debug_ranges  0x00000718       0x28 /home/joao-abreu/Linux_Apalis/linux-metroval/usr/SOEM1.3.0/lib/imx6/liboshw.a(oshw.o)
+ .debug_ranges  0x00000740       0x20 /home/joao-abreu/gcc-linaro-6.2.1-2016.11-i686_arm-linux-gnueabihf/bin/../arm-linux-gnueabihf/libc/usr/lib/crtn.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(red_test elf32-littlearm)
